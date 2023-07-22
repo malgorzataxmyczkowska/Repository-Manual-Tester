@@ -1,7 +1,7 @@
 # Repository-Manual-Tester
 Repository of Manual Tester - Małgorzata Myczkowska
 
-Małgorzata Myczkowska - Junior Manual Tester in Progress, Teacher, Musician & Violinist
+Małgorzata Myczkowska - Junior Manual Tester in Progress, Teacher, Musician & Violinist.
 I’ve graduated the Royal Conservatory in Brussels and the Academy of Music in Wrocław. 
 I completed course: GET into QA, and I have the necessary knowledge and experience about testing.
 I really love software testing, despite that my education was in the field of performing music.
